@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Guga301104&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 📞 Contact Me
-- **LinkedIn:** [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/1024px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/gustavo-gontijo-5a3b91149/)
-- **E-mail:** [![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gmail_Icon.png/1024px-Gmail_Icon.png)](mailto:guga301104@gmail.com)
+- **LinkedIn:** [![LinkedIn Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/1024px-LinkedIn_logo_initials.png](https://img.icons8.com/?size=100&id=447&format=png&color=000000))](https://www.linkedin.com/in/gustavo-gontijo-5a3b91149/)
+- **E-mail:** [![Gmail Logo](📧)](mailto:guga301104@gmail.com)
