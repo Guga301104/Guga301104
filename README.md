@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Guga301104&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 📞 Contact Me
-- 👨‍💼 **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/gustavo-gontijo-5a3b91149/)
-- 📧 **E-mail:** [Envie-me um e-mail](mailto:guga301104@gmail.com)
+- 👨‍💼 **LinkedIn:**  [See my LinkedIn](https://www.linkedin.com/in/gustavo-gontijo-5a3b91149/)
+- 📧 **E-mail:**  [Send me an e-mail](mailto:guga301104@gmail.com)
