@@ -3,7 +3,7 @@
 <br>
 • 🎓 I'm sytudying Software Engineering at Unb - University of Brasilia, Federal District, Brazil<br>
 • 🌱 Im currently studying Python and Flask<br>
-• 🛠 I'm looking to colaborate on projects
+• 🛠 I'm looking to collaborate on projects
 
 
 
@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Guga301104&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 📞 Contact Me
-- **LinkedIn:** [![LinkedIn Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/1024px-LinkedIn_logo_initials.png](https://img.icons8.com/?size=100&id=447&format=png&color=000000))](https://www.linkedin.com/in/gustavo-gontijo-5a3b91149/)
-- **E-mail:** [![Gmail Logo](📧)](mailto:guga301104@gmail.com)
+- 👨‍💼 **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/gustavo-gontijo-5a3b91149/)
+- 📧 **E-mail:** [Envie-me um e-mail](mailto:guga301104@gmail.com)
